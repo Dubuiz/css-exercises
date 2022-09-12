@@ -1,0 +1,16 @@
+.class{
+    background-color: rgb(233, 158, 170);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cool{
+    font-size: 24px;
+}
+#unique{
+    color: blue;
+    font-size: 36px;
+}
+#unik-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
